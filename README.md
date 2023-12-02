@@ -15,8 +15,8 @@ Before running the script, make sure you have the following prerequisites:
 1. Clone this repository to your host system:
 
     ```bash
-    git clone https://github.com/your-username/lfs-build-script.git
-    cd lfs-build-script
+    git clone https://github.com/pygeniusgithub/lfs-build.git
+    cd lfs-build
     ```
 
 2. Make the script executable:
